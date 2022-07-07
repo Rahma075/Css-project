@@ -33,8 +33,7 @@ ul {
     background-color: #04AA6D;
   }
   body {
-       background-color: #63a196;
-  }
+      background-image: url(thisisimg.jpg);
   h2 {
     text-align: center;
     color: rgb(161, 62, 99);
@@ -51,5 +50,7 @@ ul {
   body{
     font-family:"Roboto"
   }
- 
+ .flexy{
+  display: flex;
+ }
   
